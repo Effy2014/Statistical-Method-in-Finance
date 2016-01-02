@@ -1,2 +1,4 @@
 # Statistical-Method-in-Finance
-Portfolio Theory
+-This project follows the procedure of establishing an investment portfolio: selecting assets, exploratory analysis, assigning weights.
+
+-We chose 10 stocks from Yahoo Finance to analyze their monthly performances over 10 years from November 1st 2005 to October 31st 2015. These 10 stocks have less risk among stocks we were interested in. Specifically, they are Royal Caribbean Cruises Ltd. (RCL), Nasdaq, Inc. (NDAQ), Vertex Pharmaceuticals Incorporated (VRTX), WEC Energy Group, Inc. (WEC), Wells Fargo & Company (WFC), The Walt Disney Company (DIS), Kohl's Corp. (KSS), Level 3 Communications, Inc. (LVLT), Stericycle, Inc. (SRCL), Walgreens Boots Alliance, Inc. (WBA). A risk free asset from 4-week Treasury bill of secondary market are used to build efficient portfolio. These stocks cover diverse industries, including consumer discretionary, finance, utilities, telecommunication, industrials and health care, to reduce correlation of returns.
